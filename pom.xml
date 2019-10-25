@@ -48,6 +48,5 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/DiaperHater/spring-pet-clinic.git</developerConnection>
-        <tag>HEAD</tag>
     </scm>
 </project>

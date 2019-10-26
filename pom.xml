@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.shlang</groupId>
     <artifactId>spring-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>spring-pet-clinic</name>
     <description>spring-pet-clinic project</description>
 
@@ -47,6 +47,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/DiaperHater/spring-pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>spring-pet-clinic-0.0.2</tag>
   </scm>
 </project>
